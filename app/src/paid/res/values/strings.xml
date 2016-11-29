@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paid app</string>
+    <string name="version_string">Paid</string>
+</resources>

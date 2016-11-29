@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo app</string>
+    <string name="version_string">Demo</string>
+</resources>
